@@ -53,13 +53,15 @@ A centralized dashboard to monitor, track, and optimize multiple credit card acc
 git clone https://github.com/YOUR_USERNAME/credit-manager-app.git
 cd credit-manager-app/server
 npm install
-
+ ```
 Environment Setup
 Create a .env file in the /server directory with your Supabase credentials:
 
+```bash
 SUPABASE_URL=your-supabase-url
 SUPABASE_KEY=your-supabase-key
 PORT=5000
+```
 
 You can use .env.example to see how it's structured.
 
