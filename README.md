@@ -54,6 +54,8 @@ git clone https://github.com/YOUR_USERNAME/credit-manager-app.git
 cd credit-manager-app/server
 npm install
  ```
+---
+
 Environment Setup
 Create a .env file in the /server directory with your Supabase credentials:
 
@@ -65,19 +67,26 @@ PORT=5000
 
 You can use .env.example to see how it's structured.
 
-📌 Notes
+---
+
+## 📌 Notes
+
 🔐 No secret keys or production credentials are stored in the repo
 
 🧩 Core version is open-source; advanced features may be offered in a future premium tier
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 Halis Yuksel
 
 GitHub: HaSYuksel
 
 LinkedIn: linkedin.com/in/halisyuksel
 
-📄 License
+---
+
+## 📄 License
 This project is licensed under the MIT License.
 
 MIT License
