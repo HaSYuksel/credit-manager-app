@@ -1,3 +1,6 @@
+🛡️ Personal Project Disclosure  
+This project is a personal project developed entirely on personal time, using personal resources. It is not related to any past or current employer.
+
 # 💳 Credit Manager App
 
 A centralized dashboard to monitor, track, and optimize multiple credit card accounts across different banks. Designed for personal finance nerds who want to stop jumping between apps and start making smarter spending decisions.
@@ -87,26 +90,34 @@ LinkedIn: linkedin.com/in/halisyuksel
 ---
 
 ## 📄 License
-This project is licensed under the MIT License.
 
-MIT License
+This project is licensed under the **Mozilla Public License 2.0**.
 
-Copyright (c) 2024 Halis Yuksel
+The MPL-2.0 is a balanced open-source license:  
+- You are free to use, modify, and distribute this project.
+- If you modify **any source files** and share them publicly, you must also publish those modified files under MPL-2.0.
+- You **retain your own copyright** and can use this code in private or commercial projects.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+For more information, see the full license text in the [`LICENSE`](./LICENSE) file.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+If you contribute or build on this project, please give credit and consider contributing back.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY...
+Mozilla Public License Version 2.0
 
+This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. 
+If a copy of the MPL was not distributed with this file, You can obtain one at https://www.mozilla.org/MPL/2.0/.
 
+You are free to:
+- Use this software for personal or commercial purposes
+- Modify the source code
+- Distribute copies or modified versions
+
+But if you modify and distribute any **original source code files**, you must:
+- Include the same MPL 2.0 license
+- Share your modifications to those files
+
+All other files you add (e.g., branding, configs) remain your property unless you explicitly apply the MPL to them.
+
+© 2024 Halis Yuksel. All rights reserved.
+
+🛡️ This repository does not grant permission to use the app name “Credit Manager App,” its logo, or related branding in derivative works without written permission.
