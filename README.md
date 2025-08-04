@@ -1,4 +1,6 @@
-# 💳 Credit Manager App
+# 💳 Crate
+
+_A privacy-first dashboard to track your credit cards, not your soul._
 
 A centralized dashboard to monitor, track, and optimize multiple credit card accounts across different banks. Designed for personal finance nerds who want to stop jumping between apps and start making smarter spending decisions.
 
@@ -102,3 +104,7 @@ If you modify any source files and share them publicly, you must also publish th
 For more details, refer to the LICENSE file.
 
 🛡️ This repository does not grant permission to use the app name “Credit Manager App,” its logo, or related branding in derivative works without written permission.
+
+📎 Internal repo name: `credit-manager-app`  
+Public project name: **Crate**
+
