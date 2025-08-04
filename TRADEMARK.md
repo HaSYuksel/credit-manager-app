@@ -1,12 +1,15 @@
 # Trademark and Branding Policy
 
-The name “Credit Manager App,” its associated logo, and branding elements are the property of Halis Yuksel.
+The name “Crate,” its associated logo, and all branding assets are the intellectual property of Halis Yuksel.
 
-Use of the name, logo, or similar branding in derivative works, commercial products, or marketing materials **is not permitted without written permission.**
+You are **not permitted** to:
+- Use the name “Crate” in commercial forks or public rebranding
+- Use the logo or visual identity for unrelated projects or advertising
+- Represent derivative works as “official” or endorsed by Halis Yuksel
 
-Open-source contributors may reference the project for attribution, contribution records, or showcasing their work, but may not imply endorsement or affiliation without approval.
+You **may**:
+- Reference the project in your personal portfolio or contribution history
+- Fork the codebase under the MPL 2.0 license (without using original branding)
+- Request written permission for legitimate collaborations or uses
 
-If you'd like to request permission to use the brand or name, please contact Halis Yuksel directly.
-
-“Crate” and the Crate logo are unregistered trademarks of Halis Yuksel.  
-All rights reserved. Not for use in derivative branding without written permission.
+For permission inquiries, contact Halis Yuksel directly via GitHub or LinkedIn.
